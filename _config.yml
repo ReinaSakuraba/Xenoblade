@@ -1,3 +1,5 @@
+include: .nojekyll
+
 page_gen:
   - data: 'augments'
     name: 'Name'
