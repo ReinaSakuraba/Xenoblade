@@ -11,4 +11,4 @@ jekyll build && \
   git commit -am "$1" && \
   git push origin master && \
   cd .. && \
-  echo "Succesfully built and pushed to GitHub."
+  echo "Successfully built and pushed to GitHub."
