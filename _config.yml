@@ -3,4 +3,5 @@ include:
 
 page_gen:
   - data: 'augments'
+    dir: '/XCX/augments'
     name: 'Name'
