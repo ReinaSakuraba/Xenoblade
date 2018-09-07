@@ -1,0 +1,36 @@
+{% assign rarities = "Common,Rare,Legendary" | split: "," %}
+
+{% for rarity in rarities reversed %}
+  {% if page[rarity] %}
+    {% assign effect = page[rarity] %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.Name }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:title" content="{{ page.Name }}">
+  <meta property="og:description" content="{{ effect }}">
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"/>
+</head>
+<body>
+  <div class="container">
+    <div class="mb-2"></div>
+    <div class="card">
+      <div class="card-body">
+        <h1>{{ page.Name }}</h1>
+    {% for rarity in rarities %}
+      {% if page[rarity] %}
+        <p class="lead">{{ rarity }}: {{ page[rarity] }}</p>
+      {% endif %}
+    {% endfor %}
+      </div>
+    </div>
+    <div class="mb-2"></div>
+  </div>
+</body>
+</html>

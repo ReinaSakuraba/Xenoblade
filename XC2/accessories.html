@@ -1,0 +1,41 @@
+---
+---
+{% assign rarities = "Common,Rare,Legendary" | split: "," %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Xenoblade Chronicles 2 Accessories</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"/>
+</head>
+<body>
+  <div class="container">
+    <div class="mb-2"></div>
+    <div class="card">
+      <div class="card-body">
+        <h1>Accessory Index</h1>
+        <table class="table table-sm">
+        {% for accessory in site.data.accessories %}
+          <tr>
+            <td class="align-middle">
+              <a href="{{ accessory.Name | sanitize_filename }}">{{ accessory.Name }}</a>
+              <div class="mb-2"></div>
+              {% for rarity in rarities reversed %}
+                {% if accessory[rarity] %}
+                  {% assign effect = accessory[rarity] %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+              <span>{{ effect }}</span>
+            </td>
+          </tr>
+        {% endfor %}
+        </table>
+      </div>
+    </div>
+    <div class="mb-2"></div>
+  </div>
+</body>
+</html>

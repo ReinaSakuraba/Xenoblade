@@ -5,3 +5,7 @@ page_gen:
   - data: 'augments'
     dir: '/XCX/augments'
     name: 'Name'
+
+  - data: 'accessories'
+    dir: '/XC2/accessories'
+    name: 'Name'

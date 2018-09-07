@@ -1,0 +1,1228 @@
+[
+  {
+    "Name": "Rigid Vest",
+    "Common": "Increases maximum HP by 200.",
+    "Rare": "Increases maximum HP by 250.",
+    "Legendary": "Increases maximum HP by 300."
+  },
+  {
+    "Name": "Infantry Vest",
+    "Common": "Increases maximum HP by 400.",
+    "Rare": "Increases maximum HP by 450.",
+    "Legendary": "Increases maximum HP by 500."
+  },
+  {
+    "Name": "Abyss Vest",
+    "Rare": "Boosts maximum HP by 24%."
+  },
+  {
+    "Name": "Gear Vest",
+    "Common": "Boosts maximum HP by 20%.",
+    "Rare": "Boosts maximum HP by 21%.",
+    "Legendary": "Boosts maximum HP by 22%."
+  },
+  {
+    "Name": "Jade Vest",
+    "Common": "Boosts maximum HP by 25%.",
+    "Rare": "Boosts maximum HP by 26%.",
+    "Legendary": "Boosts maximum HP by 27%."
+  },
+  {
+    "Name": "Titanium Vest",
+    "Common": "Boosts maximum HP by 30%.",
+    "Rare": "Boosts maximum HP by 31%.",
+    "Legendary": "Boosts maximum HP by 32%."
+  },
+  {
+    "Name": "Twin Trunks Vest",
+    "Common": "Boosts maximum HP by 35%.",
+    "Rare": "Boosts maximum HP by 36%.",
+    "Legendary": "Boosts maximum HP by 37%."
+  },
+  {
+    "Name": "Muscle Belt",
+    "Common": "Increases Strength by 20.",
+    "Rare": "Increases Strength by 21.",
+    "Legendary": "Increases Strength by 22."
+  },
+  {
+    "Name": "Champion Belt",
+    "Common": "Increases Strength by 25.",
+    "Rare": "Increases Strength by 26.",
+    "Legendary": "Increases Strength by 27."
+  },
+  {
+    "Name": "Steam Belt",
+    "Common": "Boosts Strength by 20%.",
+    "Rare": "Boosts Strength by 21%.",
+    "Legendary": "Boosts Strength by 22%."
+  },
+  {
+    "Name": "Silver Belt",
+    "Common": "Boosts Strength by 25%.",
+    "Rare": "Boosts Strength by 26%.",
+    "Legendary": "Boosts Strength by 27%."
+  },
+  {
+    "Name": "Ceramic Belt",
+    "Common": "Boosts Strength by 30%.",
+    "Rare": "Boosts Strength by 31%.",
+    "Legendary": "Boosts Strength by 32%."
+  },
+  {
+    "Name": "Beast-Hide Vest",
+    "Common": "Boosts Strength by 35%.",
+    "Rare": "Boosts Strength by 36%.",
+    "Legendary": "Boosts Strength by 37%."
+  },
+  {
+    "Name": "Fluffy Hat",
+    "Common": "Increases Ether by 20.",
+    "Rare": "Increases Ether by 21.",
+    "Legendary": "Increases Ether by 22."
+  },
+  {
+    "Name": "Fabulous Hat",
+    "Common": "Increases Ether by 25.",
+    "Rare": "Increases Ether by 26.",
+    "Legendary": "Increases Ether by 27."
+  },
+  {
+    "Name": "Bolt Hat",
+    "Common": "Boosts Ether by 20%.",
+    "Rare": "Boosts Ether by 21%.",
+    "Legendary": "Boosts Ether by 22%."
+  },
+  {
+    "Name": "Pearl Hat",
+    "Common": "Boosts Ether by 25%.",
+    "Rare": "Boosts Ether by 26%.",
+    "Legendary": "Boosts Ether by 27%."
+  },
+  {
+    "Name": "Fiber Hat",
+    "Common": "Boosts Ether by 30%.",
+    "Rare": "Boosts Ether by 31%.",
+    "Legendary": "Boosts Ether by 32%."
+  },
+  {
+    "Name": "Prairie Cap",
+    "Common": "Boosts Ether by 35%.",
+    "Rare": "Boosts Ether by 36%.",
+    "Legendary": "Boosts Ether by 37%."
+  },
+  {
+    "Name": "Wolf Shoes",
+    "Common": "Increases Agility by 10.",
+    "Rare": "Increases Agility by 11.",
+    "Legendary": "Increases Agility by 12."
+  },
+  {
+    "Name": "Spring Shoes",
+    "Common": "Increases Agility by 15.",
+    "Rare": "Increases Agility by 16.",
+    "Legendary": "Increases Agility by 17."
+  },
+  {
+    "Name": "Shell Shoes",
+    "Common": "Boosts Agility by 20%.",
+    "Rare": "Boosts Agility by 21%.",
+    "Legendary": "Boosts Agility by 22%."
+  },
+  {
+    "Name": "Assassin Shoes",
+    "Common": "Boosts Agility by 25%.",
+    "Rare": "Boosts Agility by 26%.",
+    "Legendary": "Boosts Agility by 27%."
+  },
+  {
+    "Name": "Ester Shoes",
+    "Common": "Boosts Agility by 30%.",
+    "Rare": "Boosts Agility by 31%.",
+    "Legendary": "Boosts Agility by 32%."
+  },
+  {
+    "Name": "Dauntless Boots",
+    "Common": "Boosts Agility by 35%.",
+    "Rare": "Boosts Agility by 36%.",
+    "Legendary": "Boosts Agility by 37%."
+  },
+  {
+    "Name": "Leather Gloves",
+    "Common": "Increases Dexterity by 20.",
+    "Rare": "Increases Dexterity by 21.",
+    "Legendary": "Increases Dexterity by 22."
+  },
+  {
+    "Name": "Smithy Gloves",
+    "Common": "Increases Dexterity by 25.",
+    "Rare": "Increases Dexterity by 26.",
+    "Legendary": "Increases Dexterity by 27."
+  },
+  {
+    "Name": "Rainbow Gloves",
+    "Common": "Boosts Dexterity by 20%.",
+    "Rare": "Boosts Dexterity by 21%.",
+    "Legendary": "Boosts Dexterity by 22%."
+  },
+  {
+    "Name": "Hero Gloves",
+    "Common": "Boosts Dexterity by 25%.",
+    "Rare": "Boosts Dexterity by 26%.",
+    "Legendary": "Boosts Dexterity by 27%."
+  },
+  {
+    "Name": "Carbon Gloves",
+    "Common": "Boosts Dexterity by 30%.",
+    "Rare": "Boosts Dexterity by 31%.",
+    "Legendary": "Boosts Dexterity by 32%."
+  },
+  {
+    "Name": "Dress Uniform M\u00f2rag",
+    "Legendary": "Boosts Dexterity by 32%."
+  },
+  {
+    "Name": "Scarlet Inquisitor M\u00f2rag",
+    "Legendary": "Boosts Dexterity by 32%."
+  },
+  {
+    "Name": "Vivid Mitts",
+    "Common": "Boosts Dexterity by 35%.",
+    "Rare": "Boosts Dexterity by 36%.",
+    "Legendary": "Boosts Dexterity by 37%."
+  },
+  {
+    "Name": "Bunnit Choker",
+    "Common": "Increases Luck by 20.",
+    "Rare": "Increases Luck by 21.",
+    "Legendary": "Increases Luck by 22."
+  },
+  {
+    "Name": "Gold Gear Choker",
+    "Common": "Increases Luck by 25.",
+    "Rare": "Increases Luck by 26.",
+    "Legendary": "Increases Luck by 27."
+  },
+  {
+    "Name": "Nacre Choker",
+    "Common": "Boosts Luck by 20%.",
+    "Rare": "Boosts Luck by 21%.",
+    "Legendary": "Boosts Luck by 22%."
+  },
+  {
+    "Name": "Goddess Choker",
+    "Common": "Boosts Luck by 25%.",
+    "Rare": "Boosts Luck by 26%.",
+    "Legendary": "Boosts Luck by 27%."
+  },
+  {
+    "Name": "Comet Choker",
+    "Common": "Boosts Luck by 30%.",
+    "Rare": "Boosts Luck by 31%.",
+    "Legendary": "Boosts Luck by 32%."
+  },
+  {
+    "Name": "Sunlight Choker",
+    "Common": "Boosts Luck by 35%.",
+    "Rare": "Boosts Luck by 36%.",
+    "Legendary": "Boosts Luck by 37%."
+  },
+  {
+    "Name": "Eyepatch",
+    "Common": "Adds 20% to damage ratio after canceling an auto-attack.",
+    "Rare": "Adds 22% to damage ratio after canceling an auto-attack.",
+    "Legendary": "Adds 24% to damage ratio after canceling an auto-attack."
+  },
+  {
+    "Name": "Leader's Eyepatch",
+    "Common": "Adds 35% to damage ratio after canceling an auto-attack.",
+    "Rare": "Adds 37% to damage ratio after canceling an auto-attack.",
+    "Legendary": "Adds 39% to damage ratio after canceling an auto-attack."
+  },
+  {
+    "Name": "Hi-Tech Eyepatch",
+    "Common": "Adds 50% to damage ratio after canceling an auto-attack.",
+    "Rare": "Adds 52% to damage ratio after canceling an auto-attack.",
+    "Legendary": "Adds 54% to damage ratio after canceling an auto-attack."
+  },
+  {
+    "Name": "Noise Dampener",
+    "Common": "Adds 65% to damage ratio after canceling an auto-attack.",
+    "Rare": "Adds 67% to damage ratio after canceling an auto-attack.",
+    "Legendary": "Adds 69% to damage ratio after canceling an auto-attack."
+  },
+  {
+    "Name": "Iron Headband",
+    "Common": "Increases critical damage by 20%.",
+    "Rare": "Increases critical damage by 25%.",
+    "Legendary": "Increases critical damage by 30%."
+  },
+  {
+    "Name": "Ice Headband",
+    "Common": "Increases critical damage by 30%.",
+    "Rare": "Increases critical damage by 35%.",
+    "Legendary": "Increases critical damage by 40%."
+  },
+  {
+    "Name": "Optical Headband",
+    "Common": "Increases critical damage by 40%.",
+    "Rare": "Increases critical damage by 45%.",
+    "Legendary": "Increases critical damage by 50%."
+  },
+  {
+    "Name": "Embercake Zeke",
+    "Legendary": "Increases critical damage by 50%."
+  },
+  {
+    "Name": "Shining Justice Zeke",
+    "Legendary": "Increases critical damage by 50%."
+  },
+  {
+    "Name": "Crimson Headband",
+    "Common": "Increases critical damage by 50%.",
+    "Rare": "Increases critical damage by 55%.",
+    "Legendary": "Increases critical damage by 60%."
+  },
+  {
+    "Name": "Mechanized Greaves",
+    "Common": "Increases damage dealt to toppled enemies by 50%.",
+    "Rare": "Increases damage dealt to toppled enemies by 55%.",
+    "Legendary": "Increases damage dealt to toppled enemies by 60%."
+  },
+  {
+    "Name": "Crystal Greaves",
+    "Common": "Increases damage dealt to toppled enemies by 75%.",
+    "Rare": "Increases damage dealt to toppled enemies by 80%.",
+    "Legendary": "Increases damage dealt to toppled enemies by 85%."
+  },
+  {
+    "Name": "Graphite Greaves",
+    "Common": "Increases damage dealt to toppled enemies by 100%.",
+    "Rare": "Increases damage dealt to toppled enemies by 105%.",
+    "Legendary": "Increases damage dealt to toppled enemies by 110%."
+  },
+  {
+    "Name": "Staunch Boots",
+    "Common": "Increases damage dealt to toppled enemies by 125%.",
+    "Rare": "Increases damage dealt to toppled enemies by 130%.",
+    "Legendary": "Increases damage dealt to toppled enemies by 135%."
+  },
+  {
+    "Name": "Swordfighting Banner",
+    "Common": "Increases damage dealt to launched enemies by 50%.",
+    "Rare": "Increases damage dealt to launched enemies by 55%.",
+    "Legendary": "Increases damage dealt to launched enemies by 60%."
+  },
+  {
+    "Name": "Goddess Banner",
+    "Common": "Increases damage dealt to launched enemies by 75%.",
+    "Rare": "Increases damage dealt to launched enemies by 80%.",
+    "Legendary": "Increases damage dealt to launched enemies by 85%."
+  },
+  {
+    "Name": "Ancient Banner",
+    "Common": "Increases damage dealt to launched enemies by 100%.",
+    "Rare": "Increases damage dealt to launched enemies by 105%.",
+    "Legendary": "Increases damage dealt to launched enemies by 110%."
+  },
+  {
+    "Name": "War God Banner",
+    "Common": "Increases damage dealt to launched enemies by 125%.",
+    "Rare": "Increases damage dealt to launched enemies by 130%.",
+    "Legendary": "Increases damage dealt to launched enemies by 135%."
+  },
+  {
+    "Name": "Charming Swimsuit",
+    "Common": "Increases damage dealt while Blade is the opposite gender by 50%.",
+    "Rare": "Increases damage dealt while Blade is the opposite gender by 55%.",
+    "Legendary": "Increases damage dealt while Blade is the opposite gender by 60%."
+  },
+  {
+    "Name": "Glamorous Swimsuit",
+    "Common": "Increases damage dealt while Blade is the opposite gender by 75%.",
+    "Rare": "Increases damage dealt while Blade is the opposite gender by 80%.",
+    "Legendary": "Increases damage dealt while Blade is the opposite gender by 85%."
+  },
+  {
+    "Name": "Male Loincloth",
+    "Common": "Increases damage dealt while Blade is the opposite gender by 50%.",
+    "Rare": "Increases damage dealt while Blade is the opposite gender by 55%.",
+    "Legendary": "Increases damage dealt while Blade is the opposite gender by 60%."
+  },
+  {
+    "Name": "Enlightened Loincloth",
+    "Common": "Increases damage dealt while Blade is the opposite gender by 75%.",
+    "Rare": "Increases damage dealt while Blade is the opposite gender by 80%.",
+    "Legendary": "Increases damage dealt while Blade is the opposite gender by 85%."
+  },
+  {
+    "Name": "Dark Orb",
+    "Common": "Increases damage dealt when an ally is incapacitated by 50%.",
+    "Rare": "Increases damage dealt when an ally is incapacitated by 55%.",
+    "Legendary": "Increases damage dealt when an ally is incapacitated by 60%."
+  },
+  {
+    "Name": "Eraser Orb",
+    "Common": "Increases damage dealt when an ally is incapacitated by 100%.",
+    "Rare": "Increases damage dealt when an ally is incapacitated by 105%.",
+    "Legendary": "Increases damage dealt when an ally is incapacitated by 110%."
+  },
+  {
+    "Name": "Bloody Orb",
+    "Common": "Increases damage dealt when an ally is incapacitated by 150%.",
+    "Rare": "Increases damage dealt when an ally is incapacitated by 155%.",
+    "Legendary": "Increases damage dealt when an ally is incapacitated by 160%."
+  },
+  {
+    "Name": "Demon Orb",
+    "Common": "Increases damage dealt when an ally is incapacitated by 200%.",
+    "Rare": "Increases damage dealt when an ally is incapacitated by 205%.",
+    "Legendary": "Increases damage dealt when an ally is incapacitated by 210%."
+  },
+  {
+    "Name": "Envoy's Footgear",
+    "Common": "Take 15% less and deal 30% less damage.",
+    "Rare": "Take 17% less and deal 35% less damage.",
+    "Legendary": "Take 20% less and deal 40% less damage."
+  },
+  {
+    "Name": "Survivor's Footgear",
+    "Common": "Take 25% less and deal 50% less damage.",
+    "Rare": "Take 27% less and deal 55% less damage.",
+    "Legendary": "Take 30% less and deal 60% less damage."
+  },
+  {
+    "Name": "Terror Masque",
+    "Common": "Deal 50% more and take 25% more damage.",
+    "Rare": "Deal 55% more and take 27% more damage.",
+    "Legendary": "Deal 60% more and take 30% more damage."
+  },
+  {
+    "Name": "Abyss Masque",
+    "Common": "Deal 100% more and take 50% more damage.",
+    "Rare": "Deal 105% more and take 52% more damage.",
+    "Legendary": "Deal 110% more and take 55% more damage."
+  },
+  {
+    "Name": "Apprentice Vambraces",
+    "Common": "Increases damage dealt to higher-level enemies by 20%.",
+    "Rare": "Increases damage dealt to higher-level enemies by 25%.",
+    "Legendary": "Increases damage dealt to higher-level enemies by 30%."
+  },
+  {
+    "Name": "Boxer Vambraces",
+    "Common": "Increases damage dealt to higher-level enemies by 35%.",
+    "Rare": "Increases damage dealt to higher-level enemies by 40%.",
+    "Legendary": "Increases damage dealt to higher-level enemies by 45%."
+  },
+  {
+    "Name": "Hero Vambraces",
+    "Common": "Increases damage dealt to higher-level enemies by 50%.",
+    "Rare": "Increases damage dealt to higher-level enemies by 55%.",
+    "Legendary": "Increases damage dealt to higher-level enemies by 60%."
+  },
+  {
+    "Name": "Divine Vambraces",
+    "Common": "Increases damage dealt to higher-level enemies by 65%.",
+    "Rare": "Increases damage dealt to higher-level enemies by 70%.",
+    "Legendary": "Increases damage dealt to higher-level enemies by 75%."
+  },
+  {
+    "Name": "World Tree Drop",
+    "Common": "Increases damage dealt per Blade Switch by 10% (max: 250%).",
+    "Rare": "Increases damage dealt per Blade Switch by 11% (max: 250%).",
+    "Legendary": "Increases damage dealt per Blade Switch by 12% (max: 250%)."
+  },
+  {
+    "Name": "Master Attachment",
+    "Common": "Increases the attack power of all weapon classes by 10%.",
+    "Rare": "Increases the attack power of all weapon classes by 12%.",
+    "Legendary": "Increases the attack power of all weapon classes by 14%."
+  },
+  {
+    "Name": "Axe Attachment",
+    "Common": "Increases attack power of Greataxe-class weapons by 25%.",
+    "Rare": "Increases attack power of Greataxe-class weapons by 27%.",
+    "Legendary": "Increases attack power of Greataxe-class weapons by 29%."
+  },
+  {
+    "Name": "Arms Attachment",
+    "Common": "Increases attack power of Mech Arms-class weapons by 25%.",
+    "Rare": "Increases attack power of Mech Arms-class weapons by 27%.",
+    "Legendary": "Increases attack power of Mech Arms-class weapons by 29%."
+  },
+  {
+    "Name": "Ball Attachment",
+    "Common": "Increases attack power of Bitball-class weapons by 25%.",
+    "Rare": "Increases attack power of Bitball-class weapons by 27%.",
+    "Legendary": "Increases attack power of Bitball-class weapons by 29%."
+  },
+  {
+    "Name": "Cannon Attachment",
+    "Common": "Increases attack power of Ether Cannon-class weapons by 25%.",
+    "Rare": "Increases attack power of Ether Cannon-class weapons by 27%.",
+    "Legendary": "Increases attack power of Ether Cannon-class weapons by 29%."
+  },
+  {
+    "Name": "Edge Attachment",
+    "Common": "Increases attack power of Big Bang Edge-class weapons by 25%.",
+    "Rare": "Increases attack power of Big Bang Edge-class weapons by 27%.",
+    "Legendary": "Increases attack power of Big Bang Edge-class weapons by 29%."
+  },
+  {
+    "Name": "Hammer Attachment",
+    "Common": "Increases attack power of Shield Hammer-class weapons by 25%.",
+    "Rare": "Increases attack power of Shield Hammer-class weapons by 27%.",
+    "Legendary": "Increases attack power of Shield Hammer-class weapons by 29%."
+  },
+  {
+    "Name": "Katana Attachment",
+    "Common": "Increases attack power of Chroma Katana-class weapons by 25%.",
+    "Rare": "Increases attack power of Chroma Katana-class weapons by 27%.",
+    "Legendary": "Increases attack power of Chroma Katana-class weapons by 29%."
+  },
+  {
+    "Name": "Knuckle Attachment",
+    "Common": "Increases attack power of Knuckle Claws-class weapons by 25%.",
+    "Rare": "Increases attack power of Knuckle Claws-class weapons by 27%.",
+    "Legendary": "Increases attack power of Knuckle Claws-class weapons by 29%."
+  },
+  {
+    "Name": "Lance Attachment",
+    "Common": "Increases attack power of Megalance-class weapons by 25%.",
+    "Rare": "Increases attack power of Megalance-class weapons by 27%.",
+    "Legendary": "Increases attack power of Megalance-class weapons by 29%."
+  },
+  {
+    "Name": "Ring Attachment",
+    "Common": "Increases attack power of Twin Rings-class weapons by 25%.",
+    "Rare": "Increases attack power of Twin Rings-class weapons by 27%.",
+    "Legendary": "Increases attack power of Twin Rings-class weapons by 29%."
+  },
+  {
+    "Name": "Saber Attachment",
+    "Common": "Increases attack power of Variable Saber-class weapons by 25%.",
+    "Rare": "Increases attack power of Variable Saber-class weapons by 27%.",
+    "Legendary": "Increases attack power of Variable Saber-class weapons by 29%."
+  },
+  {
+    "Name": "Scimitar Attachment",
+    "Common": "Increases attack power of Catalyst Scimitar-class weapons by 25%.",
+    "Rare": "Increases attack power of Catalyst Scimitar-class weapons by 27%.",
+    "Legendary": "Increases attack power of Catalyst Scimitar-class weapons by 29%."
+  },
+  {
+    "Name": "Scythe Attachment",
+    "Common": "Increases attack power of Dual Scythes-class weapons by 25%.",
+    "Rare": "Increases attack power of Dual Scythes-class weapons by 27%.",
+    "Legendary": "Increases attack power of Dual Scythes-class weapons by 29%."
+  },
+  {
+    "Name": "Shield Attachment",
+    "Common": "Increases attack power of Drill Shield-class weapons by 25%.",
+    "Rare": "Increases attack power of Drill Shield-class weapons by 27%.",
+    "Legendary": "Increases attack power of Drill Shield-class weapons by 29%."
+  },
+  {
+    "Name": "Sword Attachment",
+    "Common": "Increases attack power of Aegis Sword-class weapons by 25%.",
+    "Rare": "Increases attack power of Aegis Sword-class weapons by 27%.",
+    "Legendary": "Increases attack power of Aegis Sword-class weapons by 29%."
+  },
+  {
+    "Name": "Whip Attachment",
+    "Common": "Increases attack power of Whipsword-class weapons by 25%.",
+    "Rare": "Increases attack power of Whipsword-class weapons by 27%.",
+    "Legendary": "Increases attack power of Whipsword-class weapons by 29%."
+  },
+  {
+    "Name": "Garnet",
+    "Common": "Restores 4% HP of damage dealt after a successful auto-attack.",
+    "Rare": "Restores 4.5% HP of damage dealt after a successful auto-attack.",
+    "Legendary": "Restores 5% HP of damage dealt after a successful auto-attack."
+  },
+  {
+    "Name": "Avian Totem Carving",
+    "Legendary": "Restores 5.5% HP of damage dealt after a successful auto-attack."
+  },
+  {
+    "Name": "Sapphire",
+    "Common": "Restores 6% HP of damage dealt after a successful auto-attack.",
+    "Rare": "Restores 6.5% HP of damage dealt after a successful auto-attack.",
+    "Legendary": "Restores 7% HP of damage dealt after a successful auto-attack."
+  },
+  {
+    "Name": "Diamond",
+    "Common": "Restores 8% HP of damage dealt after a successful auto-attack.",
+    "Rare": "Restores 8.5% HP of damage dealt after a successful auto-attack.",
+    "Legendary": "Restores 9% HP of damage dealt after a successful auto-attack."
+  },
+  {
+    "Name": "Buster-Mode Tora",
+    "Legendary": "Restores 9% HP of damage dealt after a successful auto-attack."
+  },
+  {
+    "Name": "Skullface Punk Tora",
+    "Legendary": "Restores 9% HP of damage dealt after a successful auto-attack."
+  },
+  {
+    "Name": "Alexandrite",
+    "Common": "Restores 10% HP of damage dealt after a successful auto-attack.",
+    "Rare": "Restores 10.5% HP of damage dealt after a successful auto-attack.",
+    "Legendary": "Restores 11% HP of damage dealt after a successful auto-attack."
+  },
+  {
+    "Name": "Attack Stone",
+    "Common": "Increases auto-attack damage by 20%.",
+    "Rare": "Increases auto-attack damage by 25%.",
+    "Legendary": "Increases auto-attack damage by 30%."
+  },
+  {
+    "Name": "Assault Stone",
+    "Common": "Increases auto-attack damage by 40%.",
+    "Rare": "Increases auto-attack damage by 45%.",
+    "Legendary": "Increases auto-attack damage by 50%."
+  },
+  {
+    "Name": "Break Stone",
+    "Common": "Increases auto-attack damage by 60%.",
+    "Rare": "Increases auto-attack damage by 65%.",
+    "Legendary": "Increases auto-attack damage by 70%."
+  },
+  {
+    "Name": "Violent Stone",
+    "Common": "Increases auto-attack damage by 80%.",
+    "Rare": "Increases auto-attack damage by 85%.",
+    "Legendary": "Increases auto-attack damage by 90%."
+  },
+  {
+    "Name": "Moon Cube",
+    "Common": "Adds a 20% chance of attacking again after a successful auto-attack.",
+    "Rare": "Adds a 25% chance of attacking again after a successful auto-attack.",
+    "Legendary": "Adds a 30% chance of attacking again after a successful auto-attack."
+  },
+  {
+    "Name": "Star Cube",
+    "Common": "Adds a 35% chance of attacking again after a successful auto-attack.",
+    "Rare": "Adds a 40% chance of attacking again after a successful auto-attack.",
+    "Legendary": "Adds a 45% chance of attacking again after a successful auto-attack."
+  },
+  {
+    "Name": "Galaxy Cube",
+    "Common": "Adds a 50% chance of attacking again after a successful auto-attack.",
+    "Rare": "Adds a 55% chance of attacking again after a successful auto-attack.",
+    "Legendary": "Adds a 60% chance of attacking again after a successful auto-attack."
+  },
+  {
+    "Name": "Prototype Suit Rex",
+    "Legendary": "Adds a 60% chance of attacking again after a successful auto-attack."
+  },
+  {
+    "Name": "Cloud Sea King Rex",
+    "Legendary": "Adds a 60% chance of attacking again after a successful auto-attack."
+  },
+  {
+    "Name": "Black Cube",
+    "Common": "Adds a 65% chance of attacking again after a successful auto-attack.",
+    "Rare": "Adds a 70% chance of attacking again after a successful auto-attack.",
+    "Legendary": "Adds a 75% chance of attacking again after a successful auto-attack."
+  },
+  {
+    "Name": "Chivalric Medal",
+    "Common": "Restores 3% HP when canceling an auto-attack with a Driver Art.",
+    "Rare": "Restores 3.2% HP when canceling an auto-attack with a Driver Art.",
+    "Legendary": "Restores 3.5% HP when canceling an auto-attack with a Driver Art."
+  },
+  {
+    "Name": "Military Medal",
+    "Common": "Restores 4% HP when canceling an auto-attack with a Driver Art.",
+    "Rare": "Restores 4.2% HP when canceling an auto-attack with a Driver Art.",
+    "Legendary": "Restores 4.5% HP when canceling an auto-attack with a Driver Art."
+  },
+  {
+    "Name": "Round Table Medal",
+    "Common": "Restores 5% HP when canceling an auto-attack with a Driver Art.",
+    "Rare": "Restores 5.2% HP when canceling an auto-attack with a Driver Art.",
+    "Legendary": "Restores 5.5% HP when canceling an auto-attack with a Driver Art."
+  },
+  {
+    "Name": "Beatific Medal",
+    "Common": "Restores 6% HP when canceling an auto-attack with a Driver Art.",
+    "Rare": "Restores 6.2% HP when canceling an auto-attack with a Driver Art.",
+    "Legendary": "Restores 6.5% HP when canceling an auto-attack with a Driver Art."
+  },
+  {
+    "Name": "Gauntlet",
+    "Common": "Boosts recharge for Specials after canceling by 20%.",
+    "Rare": "Boosts recharge for Specials after canceling by 22%.",
+    "Legendary": "Boosts recharge for Specials after canceling by 24%."
+  },
+  {
+    "Name": "Bio Gauntlet",
+    "Common": "Boosts recharge for Specials after canceling by 30%.",
+    "Rare": "Boosts recharge for Specials after canceling by 32%.",
+    "Legendary": "Boosts recharge for Specials after canceling by 34%."
+  },
+  {
+    "Name": "Nano-Metal Gauntlet",
+    "Common": "Boosts recharge for Specials after canceling by 40%.",
+    "Rare": "Boosts recharge for Specials after canceling by 42%.",
+    "Legendary": "Boosts recharge for Specials after canceling by 44%."
+  },
+  {
+    "Name": "Carbon Gauntlet",
+    "Common": "Boosts recharge for Specials after canceling by 50%.",
+    "Rare": "Boosts recharge for Specials after canceling by 52%.",
+    "Legendary": "Boosts recharge for Specials after canceling by 54%."
+  },
+  {
+    "Name": "Rush Hour",
+    "Common": "Expands the window of opportunity for canceling by 50%.",
+    "Rare": "Expands the window of opportunity for canceling by 60%.",
+    "Legendary": "Expands the window of opportunity for canceling by 70%."
+  },
+  {
+    "Name": "Classic Medal",
+    "Common": "Absorbs 10% of critical damage dealt as HP.",
+    "Rare": "Absorbs 11% of critical damage dealt as HP.",
+    "Legendary": "Absorbs 12% of critical damage dealt as HP."
+  },
+  {
+    "Name": "Modern Medal",
+    "Common": "Absorbs 15% of critical damage dealt as HP.",
+    "Rare": "Absorbs 16% of critical damage dealt as HP.",
+    "Legendary": "Absorbs 17% of critical damage dealt as HP."
+  },
+  {
+    "Name": "Avant-Garde Medal",
+    "Common": "Absorbs 20% of critical damage dealt as HP.",
+    "Rare": "Absorbs 21% of critical damage dealt as HP.",
+    "Legendary": "Absorbs 22% of critical damage dealt as HP."
+  },
+  {
+    "Name": "Shell Cameo",
+    "Common": "Increases HP restored to self (not using HP Potions) by 10%.",
+    "Rare": "Increases HP restored to self (not using HP Potions) by 12%.",
+    "Legendary": "Increases HP restored to self (not using HP Potions) by 14%."
+  },
+  {
+    "Name": "Marble Cameo",
+    "Common": "Increases HP restored to self (not using HP Potions) by 20%.",
+    "Rare": "Increases HP restored to self (not using HP Potions) by 22%.",
+    "Legendary": "Increases HP restored to self (not using HP Potions) by 24%."
+  },
+  {
+    "Name": "Activity Amulet",
+    "Common": "Boosts the effect of HP Potions by 20%.",
+    "Rare": "Boosts the effect of HP Potions by 22%.",
+    "Legendary": "Boosts the effect of HP Potions by 24%."
+  },
+  {
+    "Name": "Healing Amulet",
+    "Common": "Boosts the effect of HP Potions by 30%.",
+    "Rare": "Boosts the effect of HP Potions by 32%.",
+    "Legendary": "Boosts the effect of HP Potions by 34%."
+  },
+  {
+    "Name": "Rebirth Amulet",
+    "Common": "Boosts the effect of HP Potions by 40%.",
+    "Rare": "Boosts the effect of HP Potions by 42%.",
+    "Legendary": "Boosts the effect of HP Potions by 44%."
+  },
+  {
+    "Name": "Harvest Necklace",
+    "Common": "Improves the effect of Healing Arts by 10%.",
+    "Rare": "Improves the effect of Healing Arts by 12%.",
+    "Legendary": "Improves the effect of Healing Arts by 14%."
+  },
+  {
+    "Name": "Affection Necklace",
+    "Common": "Improves the effect of Healing Arts by 15%.",
+    "Rare": "Improves the effect of Healing Arts by 17%.",
+    "Legendary": "Improves the effect of Healing Arts by 19%."
+  },
+  {
+    "Name": "Holy Necklace",
+    "Common": "Improves the effect of Healing Arts by 20%.",
+    "Rare": "Improves the effect of Healing Arts by 22%.",
+    "Legendary": "Improves the effect of Healing Arts by 24%."
+  },
+  {
+    "Name": "Candy Stripe Nia",
+    "Legendary": "Improves the effect of Healing Arts by 24%."
+  },
+  {
+    "Name": "Blood Witch Nia",
+    "Legendary": "Improves the effect of Healing Arts by 24%."
+  },
+  {
+    "Name": "Saint's Necklace",
+    "Common": "Improves the effect of Healing Arts by 25%.",
+    "Rare": "Improves the effect of Healing Arts by 27%.",
+    "Legendary": "Improves the effect of Healing Arts by 29%."
+  },
+  {
+    "Name": "Beta Scope",
+    "Common": "Reduces enemy Break resist by 25%.",
+    "Rare": "Reduces enemy Break resist by 30%.",
+    "Legendary": "Reduces enemy Break resist by 35%."
+  },
+  {
+    "Name": "Master Scope",
+    "Common": "Reduces enemy Break resist by 40%.",
+    "Rare": "Reduces enemy Break resist by 45%.",
+    "Legendary": "Reduces enemy Break resist by 50%."
+  },
+  {
+    "Name": "Alpha Scope",
+    "Common": "Reduces enemy Topple resist by 25%.",
+    "Rare": "Reduces enemy Topple resist by 30%.",
+    "Legendary": "Reduces enemy Topple resist by 35%."
+  },
+  {
+    "Name": "Gamma Scope",
+    "Common": "Reduces enemy Launch resist by 25%.",
+    "Rare": "Reduces enemy Launch resist by 30%.",
+    "Legendary": "Reduces enemy Launch resist by 35%."
+  },
+  {
+    "Name": "Chrome Scarf",
+    "Common": "Extends Break duration by 15%.",
+    "Rare": "Extends Break duration by 17%.",
+    "Legendary": "Extends Break duration by 19%."
+  },
+  {
+    "Name": "Unicorn Scarf",
+    "Common": "Extends Break duration by 30%.",
+    "Rare": "Extends Break duration by 32%.",
+    "Legendary": "Extends Break duration by 34%."
+  },
+  {
+    "Name": "Quantum Scarf",
+    "Common": "Extends Break duration by 45%.",
+    "Rare": "Extends Break duration by 47%.",
+    "Legendary": "Extends Break duration by 49%."
+  },
+  {
+    "Name": "Tachyon Scarf",
+    "Common": "Extends Break duration by 60%.",
+    "Rare": "Extends Break duration by 62%.",
+    "Legendary": "Extends Break duration by 64%."
+  },
+  {
+    "Name": "White Belt",
+    "Common": "Extends Topple duration by 15%.",
+    "Rare": "Extends Topple duration by 16%.",
+    "Legendary": "Extends Topple duration by 17%."
+  },
+  {
+    "Name": "Black Belt",
+    "Common": "Extends Topple duration by 20%.",
+    "Rare": "Extends Topple duration by 21%.",
+    "Legendary": "Extends Topple duration by 22%."
+  },
+  {
+    "Name": "Platinum Belt",
+    "Common": "Extends Topple duration by 25%.",
+    "Rare": "Extends Topple duration by 26%.",
+    "Legendary": "Extends Topple duration by 27%."
+  },
+  {
+    "Name": "Rainbow Belt",
+    "Common": "Extends Topple duration by 30%.",
+    "Rare": "Extends Topple duration by 31%.",
+    "Legendary": "Extends Topple duration by 32%."
+  },
+  {
+    "Name": "Soldier Ring",
+    "Common": "Extends Launch duration by 15%.",
+    "Rare": "Extends Launch duration by 16%.",
+    "Legendary": "Extends Launch duration by 17%."
+  },
+  {
+    "Name": "Berserk Ring",
+    "Common": "Extends Launch duration by 20%.",
+    "Rare": "Extends Launch duration by 21%.",
+    "Legendary": "Extends Launch duration by 22%."
+  },
+  {
+    "Name": "Tyrant Ring",
+    "Common": "Extends Launch duration by 25%.",
+    "Rare": "Extends Launch duration by 26%.",
+    "Legendary": "Extends Launch duration by 27%."
+  },
+  {
+    "Name": "Goliath Ring",
+    "Common": "Extends Launch duration by 30%.",
+    "Rare": "Extends Launch duration by 31%.",
+    "Legendary": "Extends Launch duration by 32%."
+  },
+  {
+    "Name": "Spiked Pauldrons",
+    "Common": "Increases smash damage by 50%.",
+    "Rare": "Increases smash damage by 55%.",
+    "Legendary": "Increases smash damage by 60%."
+  },
+  {
+    "Name": "Hero Pauldrons",
+    "Common": "Increases smash damage by 75%.",
+    "Rare": "Increases smash damage by 80%.",
+    "Legendary": "Increases smash damage by 85%."
+  },
+  {
+    "Name": "Jet Pauldrons",
+    "Common": "Increases smash damage by 100%.",
+    "Rare": "Increases smash damage by 105%.",
+    "Legendary": "Increases smash damage by 110%."
+  },
+  {
+    "Name": "Consul Pauldrons",
+    "Common": "Increases smash damage by 125%.",
+    "Rare": "Increases smash damage by 130%.",
+    "Legendary": "Increases smash damage by 135%."
+  },
+  {
+    "Name": "Burst Symbol",
+    "Common": "Increases attack power ratio by 100% at the start of a Chain Attack.",
+    "Rare": "Increases attack power ratio by 150% at the start of a Chain Attack.",
+    "Legendary": "Increases attack power ratio by 200% at the start of a Chain Attack."
+  },
+  {
+    "Name": "Recovery Symbol",
+    "Common": "Heals 50% HP each time a Chain Attack is initiated.",
+    "Rare": "Heals 55% HP each time a Chain Attack is initiated.",
+    "Legendary": "Heals 60% HP each time a Chain Attack is initiated."
+  },
+  {
+    "Name": "Resurrection Symbol",
+    "Legendary": "Revives Driver each time a Chain Attack is initiated."
+  },
+  {
+    "Name": "Critical Symbol",
+    "Common": "Increases critical hit rate during a Chain Attack by 50%.",
+    "Rare": "Increases critical hit rate during a Chain Attack by 52%.",
+    "Legendary": "Increases critical hit rate during a Chain Attack by 54%."
+  },
+  {
+    "Name": "Infinity Symbol",
+    "Common": "Fills the Party Gauge by 30 at the end of each Chain Attack.",
+    "Rare": "Fills the Party Gauge by 35 at the end of each Chain Attack.",
+    "Legendary": "Fills the Party Gauge by 40 at the end of each Chain Attack."
+  },
+  {
+    "Name": "Colorful Feather",
+    "Common": "Start each battle with aggro. (Minor effect.)",
+    "Rare": "Start each battle with aggro. (Minor effect.)",
+    "Legendary": "Start each battle with aggro. (Minor effect.)"
+  },
+  {
+    "Name": "Silver Feather",
+    "Common": "Start each battle with aggro. (Medium effect.)",
+    "Rare": "Start each battle with aggro. (Medium effect.)",
+    "Legendary": "Start each battle with aggro. (Medium effect.)"
+  },
+  {
+    "Name": "Phantom Feather",
+    "Common": "Start each battle with aggro. (Major effect.)",
+    "Rare": "Start each battle with aggro. (Major effect.)",
+    "Legendary": "Start each battle with aggro. (Major effect.)"
+  },
+  {
+    "Name": "Gargantuan Feather",
+    "Common": "Start each battle with aggro. (Extra-major effect.)",
+    "Rare": "Start each battle with aggro. (Extra-major effect.)",
+    "Legendary": "Start each battle with aggro. (Extra-major effect.)"
+  },
+  {
+    "Name": "Nopon Mask",
+    "Common": "Increases aggro every second. (Minor effect.)",
+    "Rare": "Increases aggro every second. (Minor effect.)",
+    "Legendary": "Increases aggro every second. (Minor effect.)"
+  },
+  {
+    "Name": "Metal Nopon Mask",
+    "Common": "Increases aggro every second. (Medium effect.)",
+    "Rare": "Increases aggro every second. (Medium effect.)",
+    "Legendary": "Increases aggro every second. (Medium effect.)"
+  },
+  {
+    "Name": "Gold Nopon Mask",
+    "Common": "Increases aggro every second. (Major effect.)",
+    "Rare": "Increases aggro every second. (Major effect.)",
+    "Legendary": "Increases aggro every second. (Major effect.)"
+  },
+  {
+    "Name": "Platinum Nopon Mask",
+    "Common": "Increases aggro every second. (Extra-major effect.)",
+    "Rare": "Increases aggro every second. (Extra-major effect.)",
+    "Legendary": "Increases aggro every second. (Extra-major effect.)"
+  },
+  {
+    "Name": "Beast Hood",
+    "Common": "Increases aggro reduction by 20%.",
+    "Rare": "Increases aggro reduction by 21%.",
+    "Legendary": "Increases aggro reduction by 22%."
+  },
+  {
+    "Name": "Camo Hood",
+    "Common": "Increases aggro reduction by 25%.",
+    "Rare": "Increases aggro reduction by 26%.",
+    "Legendary": "Increases aggro reduction by 27%."
+  },
+  {
+    "Name": "Skeleton Hood",
+    "Common": "Increases aggro reduction by 30%.",
+    "Rare": "Increases aggro reduction by 31%.",
+    "Legendary": "Increases aggro reduction by 32%."
+  },
+  {
+    "Name": "Vanish Hood",
+    "Common": "Increases aggro reduction by 35%.",
+    "Rare": "Increases aggro reduction by 36%.",
+    "Legendary": "Increases aggro reduction by 37%."
+  },
+  {
+    "Name": "Nopon Doll",
+    "Common": "When a Driver is incapacitated, 50% of aggro is retained."
+  },
+  {
+    "Name": "Mint Potpourri",
+    "Common": "Boosts taunt resistance by 60%.",
+    "Rare": "Boosts taunt resistance by 65%.",
+    "Legendary": "Boosts taunt resistance by 70%."
+  },
+  {
+    "Name": "Lavender Potpourri",
+    "Common": "Boosts taunt resistance by 90%.",
+    "Rare": "Boosts taunt resistance by 95%.",
+    "Legendary": "Boosts taunt resistance by 100%."
+  },
+  {
+    "Name": "Seven-League Circlet",
+    "Common": "Boosts Doom resistance by 60%.",
+    "Rare": "Boosts Doom resistance by 65%.",
+    "Legendary": "Boosts Doom resistance by 70%."
+  },
+  {
+    "Name": "Fighter's Circlet",
+    "Common": "Boosts Doom resistance by 90%.",
+    "Rare": "Boosts Doom resistance by 95%.",
+    "Legendary": "Boosts Doom resistance by 100%."
+  },
+  {
+    "Name": "Priestess's Auspices",
+    "Common": "Boosts Driver shackle resistance by 60%.",
+    "Rare": "Boosts Driver shackle resistance by 65%.",
+    "Legendary": "Boosts Driver shackle resistance by 70%."
+  },
+  {
+    "Name": "Sage's Auspices",
+    "Common": "Boosts Driver shackle resistance by 90%.",
+    "Rare": "Boosts Driver shackle resistance by 95%.",
+    "Legendary": "Boosts Driver shackle resistance by 100%."
+  },
+  {
+    "Name": "Charm Bangle",
+    "Common": "Boosts Nullify Heal resistance by 60%.",
+    "Rare": "Boosts Nullify Heal resistance by 65%.",
+    "Legendary": "Boosts Nullify Heal resistance by 70%."
+  },
+  {
+    "Name": "Belemnite Bangle",
+    "Common": "Boosts Nullify Heal resistance by 90%.",
+    "Rare": "Boosts Nullify Heal resistance by 95%.",
+    "Legendary": "Boosts Nullify Heal resistance by 100%."
+  },
+  {
+    "Name": "Incense of Calm",
+    "Common": "Increases resistance to Stench by 60%.",
+    "Rare": "Increases resistance to Stench by 65%.",
+    "Legendary": "Increases resistance to Stench by 70%."
+  },
+  {
+    "Name": "Incense of Insight",
+    "Common": "Increases resistance to Stench by 90%.",
+    "Rare": "Increases resistance to Stench by 95%.",
+    "Legendary": "Increases resistance to Stench by 100%."
+  },
+  {
+    "Name": "Ocean Earring",
+    "Common": "Boosts resistance to Party-Gauge-draining attacks by 60%.",
+    "Rare": "Boosts resistance to Party-Gauge-draining attacks by 65%.",
+    "Legendary": "Boosts resistance to Party-Gauge-draining attacks by 70%."
+  },
+  {
+    "Name": "Seven-Seas Earring",
+    "Common": "Boosts resistance to Party-Gauge-draining attacks by 90%.",
+    "Rare": "Boosts resistance to Party-Gauge-draining attacks by 95%.",
+    "Legendary": "Boosts resistance to Party-Gauge-draining attacks by 100%."
+  },
+  {
+    "Name": "Omega Drive",
+    "Common": "Slightly fills the Party Gauge for each critical hit delivered.",
+    "Rare": "Slightly fills the Party Gauge for each critical hit delivered.",
+    "Legendary": "Slightly fills the Party Gauge for each critical hit delivered."
+  },
+  {
+    "Name": "Sigma Drive",
+    "Common": "Slightly fills the Party Gauge for each Driver Art used.",
+    "Rare": "Slightly fills the Party Gauge for each Driver Art used.",
+    "Legendary": "Slightly fills the Party Gauge for each Driver Art used."
+  },
+  {
+    "Name": "Silver Earrings",
+    "Common": "Fills Party Gauge on \"Excellent\" Specials. (Minor effect.)",
+    "Rare": "Fills Party Gauge on \"Excellent\" Specials. (Minor effect.)",
+    "Legendary": "Fills Party Gauge on \"Excellent\" Specials. (Minor effect.)"
+  },
+  {
+    "Name": "Crystal Earrings",
+    "Common": "Fills Party Gauge on \"Excellent\" Specials. (Major effect.)",
+    "Rare": "Fills Party Gauge on \"Excellent\" Specials. (Major effect.)",
+    "Legendary": "Fills Party Gauge on \"Excellent\" Specials. (Major effect.)"
+  },
+  {
+    "Name": "Friendship Ring",
+    "Common": "Increases the HP restored when reviving a teammate by 25%.",
+    "Rare": "Increases the HP restored when reviving a teammate by 27%.",
+    "Legendary": "Increases the HP restored when reviving a teammate by 29%."
+  },
+  {
+    "Name": "Affection Ring",
+    "Common": "Increases the HP restored when reviving a teammate by 35%.",
+    "Rare": "Increases the HP restored when reviving a teammate by 37%.",
+    "Legendary": "Increases the HP restored when reviving a teammate by 39%."
+  },
+  {
+    "Name": "Promise Ring",
+    "Common": "Increases the HP restored when reviving a teammate by 45%.",
+    "Rare": "Increases the HP restored when reviving a teammate by 47%.",
+    "Legendary": "Increases the HP restored when reviving a teammate by 49%."
+  },
+  {
+    "Name": "Grandarbor Ward",
+    "Common": "Increases the HP restored when being revived by 25%.",
+    "Rare": "Increases the HP restored when being revived by 27%.",
+    "Legendary": "Increases the HP restored when being revived by 29%."
+  },
+  {
+    "Name": "Spirit Tree Ward",
+    "Common": "Increases the HP restored when being revived by 35%.",
+    "Rare": "Increases the HP restored when being revived by 37%.",
+    "Legendary": "Increases the HP restored when being revived by 39%."
+  },
+  {
+    "Name": "World Tree Ward",
+    "Common": "Increases the HP restored when being revived by 45%.",
+    "Rare": "Increases the HP restored when being revived by 47%.",
+    "Legendary": "Increases the HP restored when being revived by 49%."
+  },
+  {
+    "Name": "Red Thread",
+    "Common": "Extends the range of Driver-Blade Affinity by 100cm.",
+    "Rare": "Extends the range of Driver-Blade Affinity by 110cm.",
+    "Legendary": "Extends the range of Driver-Blade Affinity by 120cm."
+  },
+  {
+    "Name": "Love Thread",
+    "Common": "Extends the range of Driver-Blade Affinity by 150cm.",
+    "Rare": "Extends the range of Driver-Blade Affinity by 160cm.",
+    "Legendary": "Extends the range of Driver-Blade Affinity by 170cm."
+  },
+  {
+    "Name": "Passion Thread",
+    "Common": "Extends the range of Driver-Blade Affinity by 200cm.",
+    "Rare": "Extends the range of Driver-Blade Affinity by 210cm.",
+    "Legendary": "Extends the range of Driver-Blade Affinity by 220cm."
+  },
+  {
+    "Name": "Night-vision Kit",
+    "Common": "Increases item drop collection range by 100cm.",
+    "Rare": "Increases item drop collection range by 105cm.",
+    "Legendary": "Increases item drop collection range by 110cm."
+  },
+  {
+    "Name": "Augmented Vision Kit",
+    "Common": "Increases item drop collection range by 200cm.",
+    "Rare": "Increases item drop collection range by 205cm.",
+    "Legendary": "Increases item drop collection range by 210cm."
+  },
+  {
+    "Name": "Consul Greaves",
+    "Common": "Increases movement speed in combat by 25%.",
+    "Rare": "Increases movement speed in combat by 30%.",
+    "Legendary": "Increases movement speed in combat by 35%."
+  },
+  {
+    "Name": "Infinity Greaves",
+    "Common": "Increases movement speed in combat by 50%.",
+    "Rare": "Increases movement speed in combat by 55%.",
+    "Legendary": "Increases movement speed in combat by 60%."
+  },
+  {
+    "Name": "Alphabet Course",
+    "Common": "Boosts WP received from defeating enemies by 25%."
+  },
+  {
+    "Name": "Alphabet Course+",
+    "Common": "Boosts WP received from defeating enemies by 50%."
+  },
+  {
+    "Name": "0-Battle Course",
+    "Common": "Boosts experience received from defeating enemies by 25%."
+  },
+  {
+    "Name": "0-Battle Course+",
+    "Common": "Boosts experience received from defeating enemies by 50%."
+  },
+  {
+    "Name": "Memory Locket",
+    "Legendary": "Prevents Affinity loss when a teammate falls in battle."
+  },
+  {
+    "Name": "Cheer Treat",
+    "Common": "Increases Affinity by 50% after winning a Special button challenge.",
+    "Rare": "Increases Affinity by 55% after winning a Special button challenge.",
+    "Legendary": "Increases Affinity by 60% after winning a Special button challenge."
+  },
+  {
+    "Name": "Appealing Lamp",
+    "Common": "Adds 25% buffer time to combos if switching to a combo-requesting Blade.",
+    "Rare": "Adds 30% buffer time to combos if switching to a combo-requesting Blade.",
+    "Legendary": "Adds 35% buffer time to combos if switching to a combo-requesting Blade."
+  },
+  {
+    "Name": "Overclocking Bangle",
+    "Common": "Shortens cooldown time relative to the no. of Arts ready after a Blade Switch.",
+    "Rare": "Shortens cooldown time relative to the no. of Arts ready after a Blade Switch.",
+    "Legendary": "Shortens cooldown time relative to the no. of Arts ready after a Blade Switch."
+  },
+  {
+    "Name": "Revival Pod",
+    "Legendary": "100% chance to survive hit with 1 HP + 5 secs invincibility (once per battle)."
+  },
+  {
+    "Name": "Auto-Balancer",
+    "Legendary": "Prevents deflections when an enemy guards an attack."
+  },
+  {
+    "Name": "Cloud Sea Shark Rex",
+    "Legendary": "Reduces terrain damage by 35%."
+  },
+  {
+    "Name": "Fancy Sundress Nia",
+    "Legendary": "Reduces terrain damage by 35%."
+  },
+  {
+    "Name": "Best Girl Fan Tora",
+    "Legendary": "Reduces terrain damage by 35%."
+  },
+  {
+    "Name": "Obligatory Leave M\u00f2rag",
+    "Legendary": "Reduces terrain damage by 35%."
+  },
+  {
+    "Name": "Surfinator Zeke",
+    "Legendary": "Reduces terrain damage by 35%."
+  }
+]
